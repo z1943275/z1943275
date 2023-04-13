@@ -4,11 +4,14 @@
 - 🌱 I’m currently learning C++ and SwiftUI 
 - 💞️ I’m not looking to collaborate on anything at the moment
 - 📫 How to reach me: Email me at TerryByteCodes@icloud.com or message me on linkedin
-- <div id="badges">
-  <a href="https://www.linkedin.com/in/terry-kucala-652683227/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </div>
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/terry-kucala-652683227/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </div>
+  
 ---
+  
 ### :hammer_and_wrench: Known languages and tools :
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" title="c++" alt="c++" width="40" height="40"/>&nbsp;
