@@ -12,7 +12,7 @@
 - 💞️ I’m not looking to collaborate on anything at the moment...
 - 📫 How to reach me: Email me at TerryByteCodes@icloud.com...
 ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Known languages and tools :
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" title="c++" alt="c++" width="40" height="40"/>&nbsp;
   <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" title="Unix" alt="Unix" width="40" height="40"/>&nbsp;
