@@ -16,7 +16,8 @@
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" title="c++" alt="c++" width="40" height="40"/>&nbsp;
   <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" title="Unix" alt="Unix" width="40" height="40"/>&nbsp;
-  <img src="https://images.squarespace-cdn.com/content/v1/558def25e4b0fc259f066636/1533603429394-T8E8IQCL03OEREG2ZQMN/Swift_logo.png?format=1000w)" title="Swift"        alt="Unix" width="40" height="40"/>&nbsp;
+  <img src="https://images.squarespace-cdn.com/content/v1/558def25e4b0fc259f066636/1533603429394-T8E8IQCL03OEREG2ZQMN/Swift_logo.png?format=1000w)" title="Swift"        alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" title="Assembly" alt="Assembly" width="40" height="40"/>&nbsp;
 <div>
 <!---
 z1943275/z1943275 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
